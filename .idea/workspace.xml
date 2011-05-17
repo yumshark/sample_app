@@ -27,7 +27,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="0" selection-start="469" selection-end="469" vertical-scroll-proportion="-11.538462">
+            <state line="20" column="0" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -53,6 +53,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -348,7 +350,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="469" selection-end="469" vertical-scroll-proportion="-11.538462">
+        <state line="20" column="0" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="76" selection-end="76" vertical-scroll-proportion="0.215311">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="31" selection-start="77" selection-end="77" vertical-scroll-proportion="0.04784689">
           <folding />
         </state>
       </provider>
