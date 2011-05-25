@@ -3,7 +3,7 @@ require 'spec_helper'
 describe PagesController do
   render_views
 
-  before() do
+  before(:each) do
          @base_title = "Ruby on Rails Tutorial Sample App"
   end
   describe "GET 'home'" do
