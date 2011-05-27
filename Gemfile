@@ -6,6 +6,7 @@ gem 'rails', '3.0.7'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3-ruby', '1.3.2', :require => 'sqlite3'
+gem 'rake', '0.8.7'
 
 
 # Bundle gems for the local environment. Make sure to
@@ -13,6 +14,7 @@ gem 'sqlite3-ruby', '1.3.2', :require => 'sqlite3'
 # and rake tasks are available in development mode:
 group :development do
    gem 'rspec-rails', '2.5.0'
+   gem 'annotate-models', '1.0.4'
 end
 
 group :test do

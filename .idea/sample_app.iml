@@ -12,7 +12,19 @@
   <component name="GemRequirementsHolder" version="3">
     <requirement>
       <requirement>
+        <dependency name="annotate-models" version="1.0.4" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
         <dependency name="rails" version="3.0.7" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="rake" version="0.8.7" bound="EQUAL" git="false" path="false" doRequire="true" />
       </requirement>
       <source from="Gemfile" />
     </requirement>
@@ -90,6 +102,23 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] arel (v1.0.1, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/arel-1.0.1)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] treetop (v1.4.9, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/treetop-1.4.9)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] tzinfo (v0.3.27, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/tzinfo-0.3.27)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec (v2.5.0, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rspec-2.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-rails (v2.5.0, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rspec-rails-2.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] webrat (v0.7.1, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/webrat-0.7.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rails (v3.0.7, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rails-3.0.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-expectations (v2.5.0, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rspec-expectations-2.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec (v2.5.0, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rspec-2.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activemodel (v3.0.7, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/activemodel-3.0.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] actionpack (v3.0.7, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/actionpack-3.0.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activeresource (v3.0.7, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/activeresource-3.0.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activesupport (v3.0.7, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/activesupport-3.0.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-core (v2.5.2, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rspec-core-2.5.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] arel (v2.0.10, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/arel-2.0.10)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] i18n (v0.5.0, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/i18n-0.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] actionmailer (v3.0.7, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/actionmailer-3.0.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] railties (v3.0.7, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/railties-3.0.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activerecord (v3.0.7, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/activerecord-3.0.7)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-mocks (v2.5.0, /home/user/.rvm/gems/ruby-1.9.2-p180@rails3tutorial/gems/rspec-mocks-2.5.0)" level="application" />
   </component>
 </module>
 
