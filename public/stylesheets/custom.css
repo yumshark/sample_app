@@ -8,7 +8,8 @@ body{
 
     background: #016ca2 url(../images/bg.png) repeat-x left top;
     background: #8CC4D7 url(../images/body_bg.png) repeat-x left top;
-
+    background: transparent url('../images/elance.png') repeat-x scroll 0 0;
+    background: url(../images/facebook.png) repeat-x;
 }
 
 header{
@@ -143,6 +144,7 @@ td.sidebar {
 
 div.field, div.actions {
     margin-bottom: 5px;
+    border: 2px outset #ffffff;
 }
 
 /* Error messages */
